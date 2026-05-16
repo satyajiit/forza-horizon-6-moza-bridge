@@ -6,6 +6,7 @@
 ![Works with FH6](https://img.shields.io/badge/works%20with-Forza%20Horizon%206-7B2CBF)
 ![MOZA Pit House](https://img.shields.io/badge/MOZA-Pit%20House-E10600)
 ![Last commit](https://img.shields.io/github/last-commit/satyajiit/forza-horizon-6-moza-bridge)
+[![YouTube](https://img.shields.io/badge/YouTube-%40GamesPatch-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@GamesPatch?sub_confirmation=1)
 
 A tiny UDP relay that makes **Forza Horizon 6** work with **MOZA Pit House** today, while we wait for official FH6 support.
 
@@ -141,3 +142,15 @@ Especially welcome:
 - Reports from MOZA bases other than R9 (R5, R12, R16, R21).
 - Reports that FH6 emitted a packet size other than 324 B — that means a patch changed the wire format and we need real translation logic, not pass-through. Capture a packet with `tools/recon.py` and attach the hex.
 - LED curve recommendations for popular car classes in FH6.
+
+---
+
+## Stay in the loop
+
+If this got your sim-racing weekend back on track, consider subscribing on YouTube — I post sim-racing tools, fixes, and hardware reviews on **@GamesPatch**:
+
+<p align="center">
+  <a href="https://www.youtube.com/@GamesPatch?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe%20to%20%40GamesPatch-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="Subscribe to @GamesPatch on YouTube"/>
+  </a>
+</p>
