@@ -96,14 +96,12 @@ forza-horizon-6-moza-bridge/
 ├── spoof/                  ← ForzaHorizon5.exe spoof scripts
 │   ├── start_spoof.ps1
 │   └── stop_spoof.ps1
-├── tools/                  ← optional diagnostics (see tools/README.md)
-│   ├── recon.py
-│   ├── live_monitor.py
-│   ├── test_bridge.py
-│   ├── capture_burst.py
-│   └── find_inputs.py
-└── docs/
-    └── PUBLISH.md          ← maintainer notes (skip if you're just using the bridge)
+└── tools/                  ← optional diagnostics (see tools/README.md)
+    ├── recon.py
+    ├── live_monitor.py
+    ├── test_bridge.py
+    ├── capture_burst.py
+    └── find_inputs.py
 ```
 
 ## Troubleshooting
