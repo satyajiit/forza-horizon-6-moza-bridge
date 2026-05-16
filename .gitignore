@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+build/
+
+# Ignore everything under dist/ EXCEPT the shipped exe, which is the
+# downloadable artifact users link to from the README.
+dist/*
+!dist/fh6-moza-bridge.exe
+
+*.log
+*.err
+first_packet.bin
+.venv/
+.idea/
+.vscode/
+
+# spoof binary is generated at first run from System32\PING.EXE — don't commit
+spoof/ForzaHorizon5.exe
